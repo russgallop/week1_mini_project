@@ -1,0 +1,39 @@
+
+.font {
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+
+.header { 
+    text-align: center;
+    background: rgb(95, 95, 199);
+    color: yellow;
+}
+
+.image {
+    margin: 20px;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.contact-h2 {
+    color: rgb(199, 136, 136);
+    background: rgb(0, 87, 29);
+    text-align: center;
+    
+}
+
+.navbar {
+    
+    border: 2px solid black;
+    background: 
+}
+
+.nav-element {
+    display: inline;
+    text-align: center;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
